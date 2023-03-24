@@ -1,4 +1,4 @@
-<doctyp html>
+
 <html lang="en">
  
 
@@ -29,6 +29,7 @@
 
 
                  alt="gfg-logo
+                 
                      style="width:100px;height:100px;">
                      
                      <img src="images/IMG20230308125338.jpg">
